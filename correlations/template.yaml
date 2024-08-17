@@ -87,3 +87,5 @@ analysis:
 # we can now generate the correlation result with a title
 # that represents something meaningful to the user.
 headline: "A foo or bar host was found more than once: {data}"
+
+#testdziala
